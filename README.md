@@ -1,2 +1,2 @@
 # www-cv
-CV in html
+My CV in html

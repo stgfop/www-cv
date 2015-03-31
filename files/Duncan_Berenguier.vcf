@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Address Book 6.1.3//EN
+N:Berenguier;Duncan;;;
+FN:Duncan Berenguier
+EMAIL;type=INTERNET;type=WORK;type=pref:duncan.berenguier@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+336 82 97 27 83
+item1.ADR;type=HOME;type=pref:;;6 rue Francois Canac;Marseille;;13013;France
+item1.X-ABADR:fr
+item2.URL;type=pref:http://stgfop.com
+item2.X-ABLabel:_$!<HomePage>!$_
+X-ABUID:AF4EE326-4FD0-49D1-A930-78E66A539834:ABPerson
+END:VCARD
